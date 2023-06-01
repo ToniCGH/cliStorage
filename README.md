@@ -1,1 +1,1 @@
-Adding storage to our Yargs CLI project.
+Adding storage to my Yargs CLI project.
